@@ -1,0 +1,15 @@
+body{
+    background-color: #91D8E4;
+}
+hr {
+    background-color:#91D8E4;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+
+}
+.circular{
+    border-radius: 100%;
+}
